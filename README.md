@@ -10,4 +10,5 @@ Please fill this [form](https://forms.gle/KXqNAt144trtqC45A) to access to the da
 
 Please visit [FaceForensics benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/) for the state-of-art deepfakes detection technologies
 
+Some useful [resources](/RESOURCES.md)
 
